@@ -1,7 +1,7 @@
 package com.ali.test;
 
 import javax.sql.rowset.CachedRowSet;
-
+//test
 public class StudentBook {
 	private String bookName;
 	private static byte b1=1,b2=2,b3,b6,b8,b7;  
